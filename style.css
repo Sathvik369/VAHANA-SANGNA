@@ -1,0 +1,51 @@
+#Main_body{
+    display: flex;
+    flex-direction: column;
+    border-bottom: 2px solid black;
+    font-size: larger;
+    text-align: center;
+    padding-left: 30px;
+}
+
+#h1{
+    text-align: center;
+    font-size: 70px;
+    border-bottom: 2px solid black;
+    
+}
+
+#viewer{
+    border-top: 10px solid black;
+}
+.i{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: 45%;
+    border-radius: 15px;
+}
+#ts,#em,#cs{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border-radius: 15px;
+    width: 40%;
+
+}
+
+#ms{
+    height: 50%;
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 0px;
+    border-radius: 10px;
+
+}
+
+.sh{
+    text-decoration: underline;
+}
+
